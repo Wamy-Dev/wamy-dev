@@ -34,6 +34,7 @@ jobs:
           plugin_anilist_sections: favorites
           plugin_anilist_shuffle: yes
           plugin_anilist_user: Wamyy
+          plugin_fortune: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
@@ -50,4 +51,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
+          plugin_stargazers: yes
+          plugin_stargazers_charts_type: classic
           plugin_traffic: yes
