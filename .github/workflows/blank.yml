@@ -15,6 +15,7 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
+          #  - repo
           # The following additional scopes may be required:
           #  - read:org  (for organization related metrics)
           #  - read:user (for user related data)
@@ -26,17 +27,13 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Chicago
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
-          plugin_fortune: yes
+          plugin_anilist: yes
+          plugin_anilist_limit: 5
+          plugin_anilist_limit_characters: 22
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites
+          plugin_anilist_shuffle: yes
+          plugin_anilist_user: Wamyy
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
@@ -51,7 +48,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_notable: yes
-          plugin_notable_from: user
+          plugin_notable_from: organization
           plugin_notable_types: commit
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: classic
+          plugin_traffic: yes
