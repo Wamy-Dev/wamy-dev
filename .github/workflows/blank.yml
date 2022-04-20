@@ -54,6 +54,4 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 18106703
           plugin_traffic: yes
