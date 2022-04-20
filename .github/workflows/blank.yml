@@ -55,8 +55,8 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_stackoverflow: yes
-          plugin_stackoverflow_limit: 2
-          plugin_stackoverflow_lines: 4
-          plugin_stackoverflow_lines_snippet: 2
+          plugin_stackoverflow_limit: 0
+          plugin_stackoverflow_lines: 0
+          plugin_stackoverflow_lines_snippet: 0
           plugin_stackoverflow_user: 18106703
           plugin_traffic: yes
