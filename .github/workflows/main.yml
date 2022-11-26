@@ -33,6 +33,7 @@ jobs:
           plugin_anilist_limit: 0
           plugin_anilist_limit_characters: 0
           plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites
           plugin_anilist_shuffle: yes
           plugin_anilist_user: Wamyy
           plugin_fortune: yes
@@ -46,4 +47,4 @@ jobs:
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: Wamy
+          plugin_wakatime_user: @Wamy
