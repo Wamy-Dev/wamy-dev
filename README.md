@@ -4,5 +4,9 @@ Hello! I am Wamy. I am a fullstack mostly opensource developer creating cool thi
 [![Twitter - iamreallydavid](https://img.shields.io/badge/Twitter-iamreallydavid-1DA1F2)](https://twitter.com/iamreallydavid)
 [![Github - Wamy-Dev](https://img.shields.io/badge/Github-Wamy--Dev-171515)](https://github.com/wamy-dev)
 ![](https://komarev.com/ghpvc/?username=Wamy-Dev)
+![status](https://api.statusbadges.me/badge/status/219545357388873728)
+![playing](https://api.statusbadges.me/badge/playing/219545357388873728)
+![vscode](https://api.statusbadges.me/badge/vscode/219545357388873728)
+[![spotify](https://api.statusbadges.me/badge/spotify/219545357388873728)](https://api.statusbadges.me/openspotify/219545357388873728)
 
 ![Metrics](/github-metrics.svg)
